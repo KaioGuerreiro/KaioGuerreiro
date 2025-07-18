@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Kaio Rodrigo Guerreiro Gomes
 
 🎓 Estudante de Engenharia de Software   
-💻 Apaixonado por desenvolvimento backend.
+💻 Apaixonado por desenvolvimento backend  
 🌐 Explorando também o desenvolvimento web com **Django + React**  
 📦 Aqui você vai encontrar meus projetos, desafios e estudos pessoais
 
